@@ -2,4 +2,6 @@ MLB Baseball bot created using Nutgram. The contents of this haven't been update
 
 https://github.com/nutgram/nutgram
 
-Provides access for daily scores and news.
+<picture>
+  <img alt="" src="https://i.imgur.com/3ESGmp0.png">
+</picture>
