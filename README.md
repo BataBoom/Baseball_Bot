@@ -2,6 +2,4 @@ MLB Baseball bot created using Nutgram. The contents of this haven't been update
 
 https://github.com/nutgram/nutgram
 
-<picture>
-  <img alt="" src="https://i.imgur.com/3ESGmp0.png">
-</picture>
+![Screenshot](https://i.imgur.com/3ESGmp0.png)
